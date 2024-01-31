@@ -23,7 +23,7 @@ This is a simple React-based web application that helps you find movie informati
 - CSS3
 - JavaScript
 - React.js
-- OMDB API
+- tvmaze API
 
 ## Getting Started
 
